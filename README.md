@@ -2,7 +2,7 @@
 
 Flutter authentication with role and permissions
 
-This source code is part of [Flutter Tutorial: Login, Role, and Permissions]().
+This source code is part of [Flutter Tutorial: Login, Role, and Permissions](https://www.djamware.com/post/618d094c5b9095915c5621c6/flutter-tutorial-login-role-and-permissions).
 
 ## Getting Started
 
